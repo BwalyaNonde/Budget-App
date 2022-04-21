@@ -1,5 +1,6 @@
-/*
- * This is a manifest file that'll be compiled into application.css, which will include all the files
+/* stylelint-disable block-closing-brace-newline-after */
+
+/* This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
  * Any CSS (and SCSS, if configured) file within this directory, lib/assets/stylesheets, or any plugin's
@@ -13,10 +14,10 @@
  *= require_tree .
  *= require_self
  */
-
 @keyframes move {
   100% {
-    transform: translate3d(0, 0, 1px) rotate(360deg);
+    /* stylelint-disable-next-line csstree/validator */
+    transform: translate3d(0, 1, 1px) rotate(360deg);
   }
 }
 
