@@ -6,7 +6,7 @@
 ----
 _[Here]() is the link to the project presentation video_
 
-_[Here]() is the link to the live demo_
+_[Here](https://infinite-savannah-89914.herokuapp.com/) is the link to the live demo_
 
 ---
   Splash Screen                                              |  Login Page
@@ -78,7 +78,7 @@ If you encounter any errors, run the following commands.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Donard97/recipe-app/issues).
+Feel free to check the [issues page](https://github.com/mwanawabangoa/Budget-App/issues).
 
 # Show your support
 
