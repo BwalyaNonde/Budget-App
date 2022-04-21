@@ -1,3 +1,4 @@
+/* stylelint-disable csstree/validator */
 /* stylelint-disable block-closing-brace-newline-after */
 
 /* This is a manifest file that'll be compiled into application.css, which will include all the files
@@ -16,7 +17,6 @@
  */
 @keyframes move {
   100% {
-    /* stylelint-disable-next-line csstree/validator */
     transform: translate3d(0, 1, 1px) rotate(360deg);
   }
 }
