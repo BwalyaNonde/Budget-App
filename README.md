@@ -11,7 +11,7 @@ _[Here]() is the link to the live demo_
 ---
   Splash Screen                                              |  Login Page
 :-----------------------------------------------------------:|:---------------------------------------------------------:
-![screenshot](./app/assets/images/splash_screen.gif)         |   ![screenshot](./app/assets/images/login_page.png)
+![screenshot](./app/assets/images/splash_screen.png)         |   ![screenshot](./app/assets/images/login_page.png)
   Transactions Page                                          |  Categories Page
 ![screenshot](./app/assets/images/transactions_page.png)     |   ![screenshot](./app/assets/images/categories_page.png)
 
