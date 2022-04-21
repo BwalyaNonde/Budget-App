@@ -32,17 +32,17 @@ _To get a local copy up and running follow these simple steps._
 3. Configure `database.yml` in the config folder according to your postgreSQL configuration
 4. Run app
    ```sh
-   rails server
+   rails server.
    ```
    or
    ```sh
-   rails s
+   rails s 
    ```
 
 
 # Testing
 
-`bundle exec rspec` will run all the tests.
+`bundle exec rspec` will run all the tests....
 
 Also, you can run `bundle exec rspec spec/` to run specific tests.
 
