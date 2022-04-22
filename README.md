@@ -4,7 +4,7 @@
 
 > BudgeT App is a mobile web application that allows you to manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 ----
-_[Here]() is the link to the project presentation video_
+_[Here](https://www.loom.com/share/bffa3b87ac7f4b6fa205aca2ae677cc3/) is the link to the project presentation video_
 
 _[Here](https://infinite-savannah-89914.herokuapp.com/) is the link to the live demo_
 
